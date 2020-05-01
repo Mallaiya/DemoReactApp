@@ -1,0 +1,9 @@
+.active {
+    color: red;
+}
+
+.imgComponent > .user > div{
+    display: inline-block;
+    margin: 0 10px;
+    font-size: 30px;
+}
